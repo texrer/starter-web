@@ -16,3 +16,7 @@ provide simple examples for Git training
 
 This is example is to show different parts of the GIT repository 
 This is a simple web project
+
+
+##Copyright
+2014 Richaed Rogers
