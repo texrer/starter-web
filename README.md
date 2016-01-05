@@ -11,6 +11,7 @@ As stated above, the main purpose is to
 provide simple examples for Git training
 
 ## How to Contribute
+Please fork this repository and then issue a pull request for review.
 
 ##Deployment
 
