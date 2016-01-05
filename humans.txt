@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Richard Rogers texrer@hotmail.com @none
 
 # THANKS
 
