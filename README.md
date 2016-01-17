@@ -8,6 +8,7 @@ to use Git and Github together.
 Adding a line for rebasing example
 
 Adding another line for more changes from myfeature branch
+updating for emergency fix after stash
 ## Purpose
 
 Sample website with plenty of files for demos
