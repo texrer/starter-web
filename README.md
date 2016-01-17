@@ -24,4 +24,4 @@ This is a simple web project
 
 
 ##Copyright
-2014 Richaed Rogers
+2014 Richaed Rogers. All righs reserved
