@@ -6,6 +6,8 @@ This is a simple webiste project for showing how
 to use Git and Github together.
 
 Adding a line for rebasing example
+
+Adding another line for more changes from myfeature branch
 ## Purpose
 
 Sample website with plenty of files for demos
